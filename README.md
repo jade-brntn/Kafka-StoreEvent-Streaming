@@ -2,7 +2,7 @@
 # Asian Grocery Kafka Project
 
 ## Overview
-This project simulates the generation and processing of transaction data for an Asian grocery store using Apache Kafka. It includes services for producing and consuming transaction data to analyze customer behavior patterns.
+This project simulates the generation and processing of transaction data for an Asian grocery store using Apache Kafka and Java. It includes services for producing and consuming transaction data to analyze customer behavior patterns.
 
 ## Prerequisites
 - Java JDK 8 or later
